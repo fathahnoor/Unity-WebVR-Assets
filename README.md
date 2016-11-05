@@ -7,7 +7,10 @@ WebVR template and assets for creating WebVR-enabled Unity projects.
 
 ### Copy WebGL template
 
-* __Windows__ users: Overwrite `C:\Program Files\Unity\Editor\Data\PlaybackEngines\webglsupport\BuildTools` with [`WebGLTemplates`](WebGLTemplates).
+* __Windows__ users: Overwrite `C:\Program Files\Unity\Editor\Data\PlaybackEngines\webglsupport\BuildTools\WebGLTemplates` with [`WebGLTemplates`](WebGLTemplates) from this repository.
+
+![](img/webgltemplate.png)
+
 * __Mac__ users: Copy the [`WebGLTemplates`](WebGLTemplates) into your `Assets` folder.
 
 ### Set build platform to WebGL
